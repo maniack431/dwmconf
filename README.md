@@ -1,6 +1,7 @@
 # dwmconf
 ****My dwm dotfiles..:D
 
+
 **Requirements:**
     sudo pacman -Sy xorg xorg-xinit xorg-xserver network-manager-applet 
     yay -Sy picom pnmixer ttf-font-awesome-4

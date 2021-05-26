@@ -4,7 +4,7 @@
 
 **Requirements:**
     
-    sudo pacman -Sy xorg xorg-xinit xorg-xserver network-manager-applet kitty
+    sudo pacman -Sy xorg xorg-xinit xorg-xserver network-manager-applet rxvt-unicode
     yay -Sy picom pnmixer ttf-font-awesome-4
  for battery indicator in the bar..u might need to install ACPI :D
  

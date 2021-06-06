@@ -1,0 +1,49 @@
+
+URxvt*scrollBar: false
+URxvt*foreground:  White
+URxvt.internalBorder:  15
+URxvt.font: xft:Source Code Pro Medium:size=12
+
+urxvt*depth: 20
+
+Xft*dpi:                96
+Xft*antialias:          true
+#define nord0 #282828
+#define nord1 #3c3836
+#define nord2 #504945
+#define nord3 #665c54
+#define nord4 #bdae93
+#define nord5 #d5c4a1
+#define nord6 #ebdbb2
+#define nord7 #fbf1c7
+#define nord8 #fb4934
+#define nord9 #fe8019
+#define nord10 #fabd2f
+#define nord11 #b8bb26
+#define nord12 #8ec07c
+#define nord13 #83a598
+#define nord14 #d3869b
+#define nord15 #d65d0e
+
+*.foreground:   nord4
+*.background:   nord0
+*.cursorColor:  nord5
+*fading: 0
+*fadeColor: nord3
+
+*.color0: nord0
+*.color1: nord8
+*.color2: nord11
+*.color3: nord10
+*.color4: nord13
+*.color5: nord14
+*.color6: nord12
+*.color7: nord5
+*.color8: nord3
+*.color9: nord8
+*.color10: nord11
+*.color11: nord10
+*.color12: nord13
+*.color13: nord14
+*.color14: nord12
+*.color15: nord7

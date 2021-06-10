@@ -4,7 +4,7 @@
 
 **Requirements:**
 
-   **_ARCH_ **
+   **_ARCH_**
    
     sudo pacman -Sy xorg xorg-xinit xorg-xserver network-manager-applet rxvt-unicode
     yay -Sy picom pnmixer ttf-font-awesome-4 ttf-dejavu

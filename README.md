@@ -3,6 +3,7 @@
 
 
 **Requirements:**
+
    _ARCH_ 
    
     sudo pacman -Sy xorg xorg-xinit xorg-xserver network-manager-applet rxvt-unicode

@@ -2,7 +2,7 @@
 URxvt*scrollBar: false
 URxvt*foreground:  White
 URxvt.internalBorder:  15
-URxvt.font: xft:Source Code Pro Medium:size=12
+URxvt.font: xft:DejaVu Sans Mono:size=12
 
 urxvt*depth: 20
 

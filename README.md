@@ -10,7 +10,7 @@
     yay -Sy picom pnmixer ttf-font-awesome-4 ttf-dejavu
    **_DEBIAN_**
    
-     sudo apt-get install xorg pnmixer network-manager-gnome rxvt-unicode fonts-font-awesome fonts-dejavu-core
- for battery indicator in the bar..you might need to install ACPI :D
+     sudo apt-get install xorg pnmixer network-manager-gnome rxvt-unicode fonts-font-awesome fonts-dejavu-core libx11-dev compton
+ for battery indicator in the bar..you might need to install ACPI :D 
  
     sudo pacman -Sy acpi

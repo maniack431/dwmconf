@@ -11,7 +11,7 @@
  **Installation**
  1. Place .Xresources and .xinitrc in your $HOME directory 
  
-        cp .Xresouces ~/.Xresources && cp .xinitrc ~/.xinitrc
+        cd ~/dwmconf/ && cp .Xresouces ~/.Xresources && cp .xinitrc ~/.xinitrc
  2. Build the Window Manager
         
         cd ~/dwmconf/suckless/dwm && sudo cp config.def.h config.h && sudo make clean install && cd

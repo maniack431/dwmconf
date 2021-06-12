@@ -8,7 +8,7 @@ urxvt*depth: 20
 
 Xft*dpi:                96
 Xft*antialias:          true
-#define nord0 #282828
+#define nord0 #282c34
 #define nord1 #3c3836
 #define nord2 #504945
 #define nord3 #665c54

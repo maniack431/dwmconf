@@ -2,13 +2,12 @@
 **My dwm dotfiles..:D**
 
 **Requirements:**
-
-   **_ARCH_**
    
     sudo pacman -Sy xorg xorg-xinit xorg-xserver network-manager-applet rxvt-unicode nitrogen acpi
     yay -Sy picom pnmixer ttf-font-awesome-4 ttf-dejavu flat-remix-gtk
+    
  
- **Installation**
+ **Installation:**
  1. Place .Xresources and .xinitrc in your $HOME directory 
  
         cd ~/dwmconf/ && cp .Xresouces ~/.Xresources && cp .xinitrc ~/.xinitrc

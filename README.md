@@ -1,5 +1,5 @@
 # dwmconf
-**My dwm dotfiles..:D**
+**My DWM dotfiles :D**
 
 **Requirements:**
    

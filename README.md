@@ -3,7 +3,7 @@
 
 **Requirements:**
    
-    sudo pacman -Sy xorg xorg-xinit xorg-xserver network-manager-applet rxvt-unicode nitrogen acpi
+    sudo pacman -Sy xorg xorg-xinit xorg-xserver network-manager-applet rxvt-unicode nitrogen acpi lxappearance
     yay -Sy picom pnmixer ttf-font-awesome-4 ttf-dejavu flat-remix-gtk
     
  

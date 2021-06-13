@@ -60,5 +60,3 @@ PATH="${HOME}/bin:${HOME}/.local/bin:${PATH}"
 # Set prompt
 PS1="${Yellow}\w${Red} "
 ##PS1='[\u@\h \W]\$ '
-
-. "$HOME/.cargo/env"

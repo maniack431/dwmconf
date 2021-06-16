@@ -2,11 +2,23 @@
 **My DWM dotfiles :D**
 
 **Requirements:**
+   **_ARCH_**
    
     sudo pacman -Sy xorg xorg-xinit xorg-xserver network-manager-applet rxvt-unicode nitrogen acpi lxappearance
     yay -Sy picom pnmixer ttf-font-awesome-4 ttf-dejavu flat-remix-gtk
     
- 
+   **_DEBIAN_**
+   
+    sudo apt-get install xorg x11-common xdg-utils xorg-dev nitrogen network-manager-gnome rxvt-unicode compton fonts-dejavu-core make
+   _For installing Font Awesome Icons:_
+   1. Download <a href=https://github.com/FortAwesome/Font-Awesome>this</a> zip
+   2. Place the contents from the 'otfs' directory to your .fonts directoy
+      
+    mkdir .fonts && cp -r ~/Font-Awesome/otfs/ ~/.fonts
+   3. Reload the font cache 
+
+    fc-cache -f -v
+         
  **Installation:**
  1. Place .Xresources and .xinitrc in your $HOME directory 
  

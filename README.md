@@ -15,7 +15,7 @@
    1. Download <a href=https://github.com/FortAwesome/Font-Awesome>this</a> zip
    2. Place the contents from the 'otfs' directory to your .fonts directoy
       
-    mkdir .fonts && cp -r ~/Font-Awesome/otfs/ ~/.fonts
+    mkdir .fonts && cp -r ~/Font-Awesome-master/otfs/ ~/.fonts
    3. Reload the font cache 
 
     fc-cache -f -v

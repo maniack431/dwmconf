@@ -10,7 +10,7 @@
     
    **_DEBIAN_**
    
-    sudo apt-get install xorg x11-common xdg-utils xorg-dev nitrogen network-manager-gnome rxvt-unicode compton fonts-dejavu-core make
+    sudo apt-get install xorg x11-common xdg-utils xorg-dev nitrogen network-manager-gnome rxvt-unicode picom fonts-dejavu-core make
    _For installing Font Awesome Icons:_
    1. Download <a href=https://github.com/FortAwesome/Font-Awesome>this</a> zip
    2. Place the contents from the 'otfs' directory to your .fonts directoy
